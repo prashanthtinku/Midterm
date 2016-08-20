@@ -1,5 +1,8 @@
+This File is now updated as per the instructions
+
 This is to add content in the notes file by clicking on the
 i to insert
 
 Now to move away from this file with save select ESCAPE :wq
+
 
